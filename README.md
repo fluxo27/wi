@@ -1,3 +1,5 @@
+<div style="color:blue">
+
 ## Wirtschaftsordnungen, Vor und Nachteile
 allgemeine Rahmenbedingungen 
 * Notwendigkeit durch:
@@ -189,3 +191,5 @@ durchschnittle prozentuale Preisveränderung aller Waren und Dienstleistungen de
   *  Besitz, Verbrauch
 * Empfänger:
   * Bund, Länder, Gemeinden
+
+</div>
